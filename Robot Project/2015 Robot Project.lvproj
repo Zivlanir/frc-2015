@@ -129,6 +129,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="Autonomous drive forward.vi" Type="VI" URL="../../../frc-2015/Robot Project/Autonomous drive forward.vi"/>
 		<Item Name="RIOduino_COM.vi" Type="VI" URL="../RIOduino_COM.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="rRIOduino_INT.vi" Type="VI" URL="../rRIOduino_INT.vi"/>
